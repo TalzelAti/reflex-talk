@@ -311,8 +311,8 @@ Lets say we wanted to use a cool widget
 Such as ChartJS
 </p>
 
-![](images/ChartJS.png){width=50%}
-![](images/ChartJS2.png){width=40%}
+![](images/ChartJS.png)
+![](images/ChartJS2.png)
 
 ---
 
@@ -369,3 +369,12 @@ Email: tal.z@atidot.com
 ---
 
 ## Thank You
+
+* slides can be generated using pandoc
+* to run code:
+
+```
+chmod +x Script.hs
+./Script.hs
+
+```

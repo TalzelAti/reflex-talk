@@ -10,7 +10,7 @@ Tal Zelig
 - Worked at SQream.
 - Now full stack developer at Atidot
 
-<img src="../images/atidot_logo.webp" style="background-color:white"></img>
+<img src="images/atidot_logo.webp" style="background-color:white"></img>
 
 ---
 
@@ -81,9 +81,9 @@ But no check is done on IO code.
 - [wikipedia](https://en.wikipedia.org/wiki/Reactive_programming) - Programming paradigm concerned around data flows and the propagation of change
 - Suitable for designing interactive programs, such as GUI, Games, Robotics, Learning systems, etc
 
-![](../images/robotics.jpeg)
-![](../images/games.jpeg)
-![](../images/GUI.jpeg)
+![](images/robotics.jpeg)
+![](images/games.jpeg)
+![](images/GUI.jpeg)
 
 ---
 
@@ -91,7 +91,7 @@ But no check is done on IO code.
 
 . . .
 
-![](../images/excel_logo.png)
+![](images/excel_logo.png)
 
 A framework for reactive programming
 
@@ -311,8 +311,8 @@ Lets say we wanted to use a cool widget
 Such as ChartJS
 </p>
 
-![](../images/ChartJS.png){width=50%}
-![](../images/ChartJS2.png){width=40%}
+![](images/ChartJS.png){width=50%}
+![](images/ChartJS2.png){width=40%}
 
 ---
 

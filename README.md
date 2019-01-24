@@ -374,7 +374,7 @@ Email: tal.z@atidot.com
 * to run code:
 
 ```
-chmod +x Script.hs
-./Script.hs
+$ chmod +x Script.hs
+$ ./Script.hs
 
 ```
